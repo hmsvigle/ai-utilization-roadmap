@@ -22,6 +22,27 @@ Prompt engineering is the process of crafting effective inputs to get the most r
 ### 4️⃣ **Structured Input Prompts**
 > *"List three AI tools for cloud cost optimization, along with their key features."*
 
+## 📌 Essential Prompt Syntax & Commands
+### **1️⃣ Formatting & Structure**
+- **Use Bullet Points:** "List the key features of Kubernetes in bullet points."
+- **Table Format:** "Create a table comparing AI monitoring tools with columns for Name, Features, and Pricing."
+- **JSON Output:** "Provide the following Terraform security rules in JSON format."
+
+### **2️⃣ Response Constraints**
+- **Word Limit:** "Summarize Kubernetes troubleshooting in under 50 words."
+- **Step-based Instructions:** "Explain setting up AI log analysis in exactly five steps."
+- **Code Blocks:** "Generate a YAML configuration file for an AI-powered CI/CD pipeline."
+
+### **3️⃣ Language & Tone Control**
+- **Formal Style:** "Explain Kubernetes RBAC security in a professional and technical tone."
+- **Simplified Explanation:** "Describe Kubernetes autoscaling as if explaining to a beginner."
+- **Concise Answer:** "Summarize how AI enhances DevOps monitoring in one sentence."
+
+### **4️⃣ Comparisons & Analysis**
+- **Pros and Cons:** "List the advantages and disadvantages of AI in cloud security."
+- **Comparison:** "Compare AI tools K8sGPT and Robusta AI in a tabular format."
+- **Decision-Making Support:** "Given these log errors, suggest the best AI tool for troubleshooting."
+
 ## 🚀 AI Prompt Use Cases in DevOps & Cloud
 ### 1️⃣ **Log Analysis**
 - *Prompt:* "Analyze the following Kubernetes logs and identify anomalies."
